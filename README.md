@@ -6,4 +6,4 @@ Web page that contains the Smokey Bear Fire Danger app
 #### 2)Enter "ng build --prod --base-href=/smokey/" to build the Angular project in production mode.
 
 # To upload to Github Pages
-#### Enter "ngh" (assuming )
+#### Enter "ngh" (assuming ngh is installed)
